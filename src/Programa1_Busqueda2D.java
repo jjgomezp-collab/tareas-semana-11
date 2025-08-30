@@ -30,16 +30,5 @@ public class Programa1_Busqueda2D {
             System.out.println("Valor " + valorBuscado + " encontrado en posición: ["
                     + posicion[0] + ", " + posicion[1] + "]");
         } else {
-            System.out.print
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/**
- *
- * @author Admin
- */
-public class Programa1_Busqueda2D {
-    
+            System.out.print  
 }
