@@ -30,5 +30,7 @@ public class Programa1_Busqueda2D {
             System.out.println("Valor " + valorBuscado + " encontrado en posición: ["
                     + posicion[0] + ", " + posicion[1] + "]");
         } else {
-            System.out.print  
+            System.out.println("Valor " + valorBuscado + " no encontrado en la matriz.");
+        }
+    }
 }
